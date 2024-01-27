@@ -24,7 +24,7 @@ Visual Thinking is ongeveer 3 jaar geleden opgestart door Charley Muhren. Het id
 <li>HTML</li>
  <li>CSS</li>
 <li>Svelte</li>
- <li>/Hygraph.</li>
+ <li>Hygraph.</li>
 </ul>
 
 ----
