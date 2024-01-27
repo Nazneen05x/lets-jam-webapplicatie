@@ -8,9 +8,9 @@
 
 Ik heb voor Visual Thinking een artikelen homepagina en detailpagina gemaakt. Op deze pagina kun je verschillende artikelen lezen over hoe Visual Thinking toegepast wordt op de HBO.
 
-Visual Thinking is ongeveer 3 jaar geleden opgestart door Charley Muhren. Het idee erachter is dat mensen beter kunnen leren door schetsen te implementeren in hun leerproces. En om studenten te leren hun gedachten, en ideeën te visualiseren (docenten kunnen dit studenten leren d.m.v. de werkvormen op het platform). 
-
 > Bekijk hier de artikelen homepagina en detailpagina: https://lets-jam-webapplicatie-weld.vercel.app/artikelen
+
+Visual Thinking is ongeveer 3 jaar geleden opgestart door Charley Muhren. Het idee erachter is dat mensen beter kunnen leren door schetsen te implementeren in hun leerproces. En om studenten te leren hun gedachten, en ideeën te visualiseren (docenten kunnen dit studenten leren d.m.v. de werkvormen op het platform). 
 
 
 ## Kenmerken 🖇️
