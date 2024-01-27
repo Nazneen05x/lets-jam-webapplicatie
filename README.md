@@ -13,7 +13,7 @@ Visual Thinking is ongeveer 3 jaar geleden opgestart door Charley Muhren. Het id
 > Bekijk hier de artikelen homepagina en detailpagina: https://lets-jam-webapplicatie-weld.vercel.app/artikelen
 
 
-
+## Kenmerken 🖇️
 <strong>`TOOLS 🧰`</strong>
 <ul>
 <li>VSCode</li>
