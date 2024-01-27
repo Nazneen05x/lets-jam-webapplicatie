@@ -27,16 +27,6 @@ Visual Thinking is ongeveer 3 jaar geleden opgestart door Charley Muhren. Het id
  <li>Hygraph.</li>
 </ul>
 
-## Bronnen 🌐
-
-
-<ul>
-<li>https://www.google.com</li>
-<li>https://hygraph.com</li>
-<li>https://svelte.dev/</li>
-</ul>
-
-
 ## Installatie  🛠️
 1. Fork deze leertaak.
 2. Code klonen naar Github Desktop.
@@ -45,6 +35,15 @@ Visual Thinking is ongeveer 3 jaar geleden opgestart door Charley Muhren. Het id
 5. `Npm install` (typen in je terminal, daarna enter druken).
 6. `Npm run dev` (typen in je terminal, daarna enter druken).
 7. localhost:5173  (live link om artikel (blog) pagina te zien in je browser)
+
+## Bronnen 🌐
+
+
+<ul>
+<li>https://www.google.com</li>
+<li>https://hygraph.com</li>
+<li>https://svelte.dev/</li>
+</ul>
 
 ## Licentie 🔒
 
