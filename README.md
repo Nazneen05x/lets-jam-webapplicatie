@@ -27,6 +27,15 @@ Visual Thinking is ongeveer 3 jaar geleden opgestart door Charley Muhren. Het id
  <li>Hygraph.</li>
 </ul>
 
+## Bronnen 🌐
+
+
+<ul>
+<li>https://www.google.com</li>
+<li>https://hygraph.com</li>
+<li>https://svelte.dev/</li>
+</ul>
+
 
 ## Installatie  🛠️
 1. Fork deze leertaak.
