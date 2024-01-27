@@ -11,3 +11,20 @@ Ik heb voor Visual Thinking een artikelen homepagina en detailpagina gemaakt. Op
 Visual Thinking is ongeveer 3 jaar geleden opgestart door Charley Muhren. Het idee erachter is dat mensen beter kunnen leren door schetsen te implementeren in hun leerproces. En om studenten te leren hun gedachten, en ideeën te visualiseren (docenten kunnen dit studenten leren d.m.v. de werkvormen op het platform). 
 
 > Bekijk hier de artikelen homepagina en detailpagina: https://lets-jam-webapplicatie-weld.vercel.app/artikelen
+
+----
+
+<strong>`TOOLS 🧰`</strong>
+<ul>
+<li>VSCode</li>
+</ul>
+
+<strong>`GEBRUIKTE TECHNIEKEN 🪚`</strong>
+<ul>
+<li>HTML</li>
+ <li>CSS</li>
+<li>Svelte</li>
+ <li>/Hygraph.</li>
+</ul>
+
+----
